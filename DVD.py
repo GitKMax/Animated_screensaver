@@ -91,7 +91,7 @@ def check_collisions(x, y, image_rect, velocity_x, velocity_y, window_width, win
 
 # Resize the image
 image_width = 200  # Adjust the desired width
-image_height = 250  # Adjust the desired height
+image_height = 550  # Adjust the desired height
 image = r_image(image, image_width, image_height)
 image_rect = image.get_rect()
 
