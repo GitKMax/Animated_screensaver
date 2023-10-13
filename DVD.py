@@ -48,7 +48,7 @@ if __name__ == "__main__":
 
     # Set up the display
     window = pygame.display.set_mode((window_width, window_height), pygame.NOFRAME)
-    
+
 
     # Set window style to layered (allows transparency)
     hwnd: int = pygame.display.get_wm_info()["window"]
