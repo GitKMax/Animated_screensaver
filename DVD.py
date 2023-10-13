@@ -111,7 +111,3 @@ if __name__ == "__main__":
 
     # Quit pygame
     pygame.quit()
-
-    # Load the image with a transparent background
-
-
